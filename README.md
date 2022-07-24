@@ -1,0 +1,2 @@
+# weeco-token
+weeco token
